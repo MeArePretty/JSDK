@@ -1,0 +1,52 @@
+﻿  Reading Qt configuration (D:\QT\5.9.8\msvc2017_64\\bin\qmake.exe)
+  uic CutPixmap.ui
+  rcc CutPixmap.qrc
+  moc CutPixmap.h
+  moc QShowDesk.h
+  moc MyToolBar.h
+  moc TransToolBar.h
+  moc MyPlaintText.h
+  moc MyFontDialog.h
+  moc MyCombox.h
+  moc MyShowDrawWidget.h
+  moc MyGraphicsView.h
+  moc QDockToolbar.h
+  moc QDrawToolBar.h
+  moc MyColorDialog.h
+  moc QShapeToolBar.h
+  MyColorDialog.cpp
+  MyCombox.cpp
+  MyFontDialog.cpp
+  MyGraphicsView.cpp
+  MyPlaintText.cpp
+  MyShowDrawWidget.cpp
+  MyToolBar.cpp
+  QCurve.cpp
+  QDockToolbar.cpp
+  QDrawToolBar.cpp
+  QEllipse.cpp
+  QLayer.cpp
+  QRectDraw.cpp
+  QRoundRect.cpp
+  QShapeToolBar.cpp
+  QShowDesk.cpp
+  QStraightLine.cpp
+  QText.cpp
+  TransToolBar.cpp
+  CutPixmap.cpp
+  main.cpp
+  qrc_CutPixmap.cpp
+  moc_CutPixmap.cpp
+  moc_QShowDesk.cpp
+  moc_MyToolBar.cpp
+  moc_TransToolBar.cpp
+  moc_MyPlaintText.cpp
+  moc_MyFontDialog.cpp
+  moc_MyCombox.cpp
+  moc_MyShowDrawWidget.cpp
+  moc_MyGraphicsView.cpp
+  moc_QDockToolbar.cpp
+  moc_QDrawToolBar.cpp
+  moc_MyColorDialog.cpp
+  moc_QShapeToolBar.cpp
+  CutPixmap.vcxproj -> D:\VS2015Project\QTProject\CutPixmap\x64\Debug\CutPixmap.exe

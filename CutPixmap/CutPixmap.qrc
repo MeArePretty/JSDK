@@ -1,0 +1,45 @@
+<RCC>
+  <qresource prefix="CutPixmap">
+    <file>Resources/new_128px.png</file>
+    <file>Resources/history.png</file>
+    <file>Resources/save_128px.png</file>
+    <file>Resources/Setfont.png</file>
+    <file>Resources/edit_text.png</file>
+    <file>Resources/close.png</file>
+    <file>Resources/dashdotline.png</file>
+    <file>Resources/dashline.png</file>
+    <file>Resources/dotline.png</file>
+    <file>Resources/solidline.png</file>
+    <file>Resources/Ellipse.png</file>
+    <file>Resources/line.png</file>
+    <file>Resources/ellipse-pro.cur</file>
+    <file>Resources/line-pro.cur</file>
+    <file>Resources/rect-pro.cur</file>
+    <file>Resources/rectangle.png</file>
+    <file>Resources/roundedrectangle.png</file>
+    <file>Resources/Feather.png</file>
+    <file>Resources/click_cursor_mouse_pointer_select.png</file>
+    <file>Resources/text.png</file>
+    <file>Resources/back.bmp</file>
+    <file>Resources/color_palette.png</file>
+    <file>Resources/line_curve.png</file>
+    <file>Resources/black.ico</file>
+    <file>Resources/orange.ico</file>
+    <file>Resources/blue.ico</file>
+    <file>Resources/Qblue.ico</file>
+    <file>Resources/purple.ico</file>
+    <file>Resources/Qgreen.ico</file>
+    <file>Resources/red.ico</file>
+    <file>Resources/Sblue.ico</file>
+    <file>Resources/white.ico</file>
+    <file>Resources/yellow.ico</file>
+    <file>Resources/green.ico</file>
+    <file>Resources/pen.png</file>
+    <file>Resources/photo.png</file>
+    <file>Resources/Closed_Lock.png</file>
+    <file>Resources/Opened_Lock.png</file>
+    <file>Resources/save.png</file>
+    <file>Resources/good.png</file>
+    <file>Resources/done.png</file>
+  </qresource>
+</RCC>
